@@ -98,6 +98,9 @@ Other systems derived from the listed ones, such as for instance Linux Mint (Ubu
 
 **Note:** If your system is not listed above as supported, please feel free to request support in an issue on GitHub. We can then discuss adding support.   
 
+## Availability in distributions
+
+AppImageLauncher is known to be available in the following distribution repositories: https://repology.org/project/appimagelauncher/versions
 
 ## How it works
 
